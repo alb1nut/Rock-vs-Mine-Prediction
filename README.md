@@ -3,11 +3,15 @@ This project implements a Logistic Regression model to distinguish between rock 
 
 # 🔍 Problem Statement
 Input: 60 numerical features representing sonar signal frequencies.
+
 Output: Binary classification (Rock or Mine).
+
 Goal: Build a model that accurately predicts whether a sonar signal reflection is from a rock or a metal mine.
 
 
 # 🛠️ Technologies Used
 Python (Primary language)
+
 Scikit-learn (Machine Learning: Logistic Regression)
+
 Pandas & NumPy (Data Processing)
